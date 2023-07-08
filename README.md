@@ -1,0 +1,2 @@
+# weapon-detection
+WEAPON DETECTION USING OPENCV PYTHON
